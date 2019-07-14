@@ -1,0 +1,91 @@
+﻿  changepass.cpp
+e:\vs 项目\bankmanage\client\client\changepass.cpp(15): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+e:\vs 项目\bankmanage\client\client\changepass.cpp(17): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(462): note: 参见“putch”的声明
+e:\vs 项目\bankmanage\client\client\changepass.cpp(34): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+e:\vs 项目\bankmanage\client\client\changepass.cpp(36): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(462): note: 参见“putch”的声明
+e:\vs 项目\bankmanage\client\client\changepass.cpp(42): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+e:\vs 项目\bankmanage\client\client\changepass.cpp(44): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(462): note: 参见“putch”的声明
+e:\vs 项目\bankmanage\client\client\changepass.cpp(53): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+e:\vs 项目\bankmanage\client\client\changepass.cpp(55): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(462): note: 参见“putch”的声明
+e:\vs 项目\bankmanage\client\client\changepass.cpp(61): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+e:\vs 项目\bankmanage\client\client\changepass.cpp(63): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(462): note: 参见“putch”的声明
+e:\vs 项目\bankmanage\client\client\changepass.cpp(68): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+  close_account.cpp
+e:\vs 项目\bankmanage\client\client\close_account.cpp(12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+e:\vs 项目\bankmanage\client\client\close_account.cpp(14): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(462): note: 参见“putch”的声明
+  deposit.cpp
+e:\vs 项目\bankmanage\client\client\deposit.cpp(12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+e:\vs 项目\bankmanage\client\client\deposit.cpp(14): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(462): note: 参见“putch”的声明
+  exit_log.cpp
+  init_client.cpp
+e:\vs 项目\bankmanage\client\client\init_client.cpp(29): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  d:\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+  login_reg.cpp
+e:\vs 项目\bankmanage\client\client\login_reg.cpp(93): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\vs 项目\bankmanage\client\client\login_reg.cpp(49): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+e:\vs 项目\bankmanage\client\client\login_reg.cpp(51): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(462): note: 参见“putch”的声明
+e:\vs 项目\bankmanage\client\client\login_reg.cpp(68): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+e:\vs 项目\bankmanage\client\client\login_reg.cpp(70): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(462): note: 参见“putch”的声明
+e:\vs 项目\bankmanage\client\client\login_reg.cpp(76): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+e:\vs 项目\bankmanage\client\client\login_reg.cpp(78): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(462): note: 参见“putch”的声明
+e:\vs 项目\bankmanage\client\client\login_reg.cpp(95): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+  look_balance.cpp
+e:\vs 项目\bankmanage\client\client\look_balance.cpp(12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+e:\vs 项目\bankmanage\client\client\look_balance.cpp(14): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(462): note: 参见“putch”的声明
+  look_check.cpp
+e:\vs 项目\bankmanage\client\client\look_check.cpp(12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+e:\vs 项目\bankmanage\client\client\look_check.cpp(14): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(462): note: 参见“putch”的声明
+  main.cpp
+  main_menu.cpp
+  open_account.cpp
+e:\vs 项目\bankmanage\client\client\open_account.cpp(26): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+e:\vs 项目\bankmanage\client\client\open_account.cpp(28): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(462): note: 参见“putch”的声明
+e:\vs 项目\bankmanage\client\client\open_account.cpp(34): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+e:\vs 项目\bankmanage\client\client\open_account.cpp(36): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(462): note: 参见“putch”的声明
+e:\vs 项目\bankmanage\client\client\open_account.cpp(47): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+  thread.cpp
+  transfer.cpp
+e:\vs 项目\bankmanage\client\client\transfer.cpp(12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+e:\vs 项目\bankmanage\client\client\transfer.cpp(14): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(462): note: 参见“putch”的声明
+  withdrawal.cpp
+e:\vs 项目\bankmanage\client\client\withdrawal.cpp(12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+e:\vs 项目\bankmanage\client\client\withdrawal.cpp(14): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(462): note: 参见“putch”的声明
+  正在生成代码...
+e:\vs 项目\bankmanage\client\client\exit_log.cpp(15): warning C4715: “Bankclient::exit_log”: 不是所有的控件路径都返回值
+e:\vs 项目\bankmanage\client\client\close_account.cpp(27): warning C4715: “Bankclient::close_account”: 不是所有的控件路径都返回值
+  client.vcxproj -> E:\vs 项目\bankmanage\client\Debug\client.exe

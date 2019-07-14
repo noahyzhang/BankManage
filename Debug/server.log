@@ -1,0 +1,34 @@
+﻿  changepass_check.cpp
+  close_account_check.cpp
+e:\vs 项目\bankmanage\server\server\server\close_account_check.cpp(11): warning C4101: “mysql_field”: 未引用的局部变量
+  deposit_check.cpp
+e:\vs 项目\bankmanage\server\server\server\deposit_check.cpp(40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs 项目\bankmanage\server\server\server\deposit_check.cpp(15): warning C4101: “mysql_field”: 未引用的局部变量
+  exit_check.cpp
+  init_socket.cpp
+  login_check.cpp
+e:\vs 项目\bankmanage\server\server\server\login_check.cpp(10): warning C4101: “mysql_field”: 未引用的局部变量
+  look_balance_check.cpp
+e:\vs 项目\bankmanage\server\server\server\look_balance_check.cpp(38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs 项目\bankmanage\server\server\server\look_balance_check.cpp(15): warning C4101: “mysql_field”: 未引用的局部变量
+  look_check_check.cpp
+e:\vs 项目\bankmanage\server\server\server\look_check_check.cpp(46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs 项目\bankmanage\server\server\server\look_check_check.cpp(54): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs 项目\bankmanage\server\server\server\look_check_check.cpp(57): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs 项目\bankmanage\server\server\server\look_check_check.cpp(15): warning C4101: “mysql_field”: 未引用的局部变量
+  main.cpp
+  matching.cpp
+e:\vs 项目\bankmanage\server\server\server\matching.cpp(10): warning C4101: “mysql_field”: 未引用的局部变量
+  open_account_check.cpp
+e:\vs 项目\bankmanage\server\server\server\open_account_check.cpp(44): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\vs 项目\bankmanage\server\server\server\open_account_check.cpp(10): warning C4101: “mysql_field”: 未引用的局部变量
+  register_check.cpp
+  transfer_check.cpp
+e:\vs 项目\bankmanage\server\server\server\transfer_check.cpp(83): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs 项目\bankmanage\server\server\server\transfer_check.cpp(100): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs 项目\bankmanage\server\server\server\transfer_check.cpp(14): warning C4101: “mysql_field”: 未引用的局部变量
+  withdrawal_check.cpp
+e:\vs 项目\bankmanage\server\server\server\withdrawal_check.cpp(40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs 项目\bankmanage\server\server\server\withdrawal_check.cpp(15): warning C4101: “mysql_field”: 未引用的局部变量
+  正在生成代码...
+  server.vcxproj -> E:\vs 项目\bankmanage\server\server\Debug\server.exe
